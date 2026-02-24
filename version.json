@@ -1,3 +1,5 @@
 {
-"version": "1.0.1",
+  "version": "1.0.2",
+  "notes": "A short human-readable description of the update",
+  "sha256": "a30def72fd4e0e28d000418d4cb7d41053ce146e2a3aa4871474a9e4ff4e0f4a"
 }
